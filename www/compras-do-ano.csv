@@ -1,0 +1,47 @@
+Mês,Categoria,Produto,Quantidade
+janeiro,alimentos,Arroz,200
+janeiro,alimentos,Feijão,150
+janeiro,alimentos,"Pão de forma",100
+janeiro,alimentos,Nutella,50
+janeiro,higiene_pessoal,"Papel higiênico",1000
+janeiro,higiene_pessoal,"Creme dental",500
+janeiro,higiene_pessoal,"Sabonete Protex",500
+janeiro,higiene_pessoal,"Escova de dente",500
+janeiro,limpeza,Desinfetante,100
+janeiro,limpeza,"Veja multiuso",50
+janeiro,limpeza,"Sabão em pó",50
+fevereiro,alimentos,"Geléia de morango",250
+fevereiro,alimentos,"Pão de forma",50
+fevereiro,alimentos,"Queijo minas",50
+fevereiro,higiene_pessoal,"Papel higiênico",1000
+fevereiro,higiene_pessoal,"Creme dental",500
+fevereiro,higiene_pessoal,"Sabonete Dove",500
+fevereiro,limpeza,Rodo,301
+fevereiro,limpeza,"Pano de chão",300
+marco,alimentos,Ovos,1200
+marco,alimentos,Iogurte,500
+marco,alimentos,"Pasta de Amendoim",500
+marco,higiene_pessoal,"Enxaguante bucal",500
+marco,limpeza,Detergente,100
+marco,limpeza,"Sabão em pó",100
+abril,alimentos,"Filé Mignon",350
+abril,alimentos,"Chocolate ao leite",100
+abril,alimentos,Doritos,50
+abril,higiene_pessoal,"Fio dental",500
+abril,higiene_pessoal,"Escova de dente",500
+abril,higiene_pessoal,"Creme dental",500
+abril,limpeza,"Esponja de aço",100
+maio,alimentos,Morango,10001
+maio,alimentos,"Leite desnatado",2000
+maio,alimentos,Tomate,1000
+maio,alimentos,Brócolis,1000
+maio,alimentos,"Arroz integral",500
+maio,alimentos,Feijão,500
+maio,alimentos,"Filé de frango",500
+maio,alimentos,Berinjela,100
+maio,alimentos,Pepino,100
+maio,higiene_pessoal,Protex,500
+maio,higiene_pessoal,Shampoo,500
+maio,higiene_pessoal,"Papel higiênico",500
+maio,limpeza,"Diabo verde",100
+maio,limpeza,MOP,100
